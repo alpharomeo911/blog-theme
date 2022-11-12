@@ -57,7 +57,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: files/cv.pdf
+    link: https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:9f54a799-8694-4bea-a995-1a1bd2238ffb
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "prajapati.s@northeastern.edu"
