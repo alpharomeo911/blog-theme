@@ -62,6 +62,8 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "prajapati.s@northeastern.edu"
 ---
-I'm a passionate roboticist, researching in the field of perception, localization, machine learning and cognition. My journey and interest in robotics started from interfacing a simple rotary encoder with an Arduino micro-controller. After participating in different robotics competition, and gaining more and more experience, I started my journey as MS in Robotics student from Northeastern University. Apart from this, I like aerospace and aviation (funfact: I can fly B737 and love playing X-plane 11 and Kerbal Space Program). Looking forward to hear more from you guys!
+I'm a passionate roboticist, researching in the field of perception, localization, machine learning and cognition. My journey and interest in robotics started from interfacing a simple rotary encoder with an Arduino micro-controller. After participating in different robotics competition, and gaining more and more experience, I started my journey as MS in Robotics student from Northeastern University. 
+
+Apart from this, I like aerospace and aviation (funfact: I can fly B737 and love playing X-plane 11 and Kerbal Space Program). Looking forward to hear more from you guys!
 
 Regards
