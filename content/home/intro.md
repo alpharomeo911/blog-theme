@@ -18,6 +18,6 @@ author: admin
 #  css_class: fullscreen
 ---
 
-🐈 Hey! I'm **Sarvesh**, a data scientist at Google.
+🐈 Hello, World! I'm **Sarvesh**, a graduate student at Northeastern University.
 
-Check out my [CV](/about/) and blog posts below 🌈
+Check out my [Resume](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:9f54a799-8694-4bea-a995-1a1bd2238ffb) and blog posts below 🌈
