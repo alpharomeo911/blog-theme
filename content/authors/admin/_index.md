@@ -30,7 +30,7 @@ education:
  - course: MS in Robotics (Concentration in Computer Science)
    institution: Northeastern University
    year: 2024
- - course: BTech in Computer Engineering
+ - course: BE in Computer Engineering
    institution: Gujarat Technological University
    year: 2022
 #  - course: BSc in Artificial Intelligence
@@ -57,7 +57,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: files/resume.pdf
+    link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "prajapati.s@northeastern.edu"
