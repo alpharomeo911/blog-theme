@@ -10,7 +10,7 @@ image:
   focal_point: ""
   preview_only: false
 ---
-I finally decided to write blog posts which covers topics from Engineering, Robotics and Mathematics,  I may also cover aviation (I'm avgeek) but haven't planned upon it yet. I'm still in the process of organizing the posts, which will enable readers to learn and engage deeply and in a more structured way. I'll also try my best to divide the posts in two part, one part will focus on general audience, and the other part will try to explain the topic more deeply.
+I finally decided to write blog posts which covers topics from Engineering, Robotics and Mathematics,  I may also cover aerospace/aviation (I'm avgeek) but haven't planned upon it yet. I'm still in the process of organizing the posts, which will enable readers to learn and engage deeply and in a more structured way. I'll also try my best to divide the posts in two part, one part will focus on general audience, and the other part will try to explain the topic more deeply.
 
 ### **Motivation**
 
